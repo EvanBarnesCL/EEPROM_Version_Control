@@ -18,7 +18,7 @@ Designed for internal CrunchLabs use on Hack Pack.
 ## Installation
 
 1. **Install in the Arduino IDE**:
-   - Download the library as a ZIP file from the [GitHub repository](https://github.com/YourUsername/EEPROM_Version_Control).
+   - Download the library as a ZIP file from the [GitHub repository](https://github.com/EvanBarnesCL/EEPROM_Version_Control).
    - Open the Arduino IDE.
    - Go to `Sketch -> Include Library -> Add .ZIP Library`.
    - Select the downloaded ZIP file.
@@ -29,7 +29,7 @@ OR:
    - Add the following to your `platformio.ini` file:
      ```
      lib_deps =
-         https://github.com/YourUsername/EEPROM_Version_Control
+         https://github.com/EvanBarnesCL/EEPROM_Version_Control
      ```
 
 ## Usage
