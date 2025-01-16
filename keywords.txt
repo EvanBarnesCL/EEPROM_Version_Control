@@ -1,0 +1,15 @@
+# Keywords for EEPROM Version Control Library
+# Format: <keyword> <tab> <type>
+# Types: KEYWORD1, KEYWORD2, KEYWORD3, LITERAL1, LITERAL2
+
+EEPROMVersionControl	KEYWORD1
+versionData	KEYWORD2
+setProjectName	KEYWORD2
+setProjectVersion	KEYWORD2
+setSoftwareVersion	KEYWORD2
+setVendor	KEYWORD2
+setFinalSoftwareDate	KEYWORD2
+writeDataToEEPROM	KEYWORD2
+getVersionData	KEYWORD2
+printVersionData	KEYWORD2
+dataIsWritten	KEYWORD2
